@@ -12,4 +12,4 @@ Git commands :
 Linux : 
     pwd : present directory 
     mkdir : make a dir 
-    touch : create files
+    touch : create files2
