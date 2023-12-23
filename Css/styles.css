@@ -1,0 +1,44 @@
+*,
+html,
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: monospace;
+    background-color: bisque;
+}
+
+body>h1 {
+    color: rgb(126, 119, 119);
+    text-decoration-line: underline;
+    text-align: center;
+}
+
+body #wrapper {
+    padding: 5% 20% 0%;
+    display: inline flex;
+    flex-flow: row wrap;
+}
+
+#wrapper>div {
+    width: 49%;
+    flex: 1 1 auto;
+}
+
+#linux>*,
+#git>*,
+#vsCode>* {
+    margin-top: 5%;
+    margin-right: 10%;
+}
+
+#linux {
+    color: rgb(78, 78, 148);
+}
+
+#git {
+    color: rgb(219, 80, 80);
+}
+
+#vsCode {
+    color: rgb(144, 70, 214);
+}
