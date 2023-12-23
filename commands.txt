@@ -1,0 +1,14 @@
+#Linux :
+
+~ (home directory)
+ls (list files)
+ls -F (show files and their type)
+cd  (go down on the directory tree)
+cd .. (go up on the directory tree) 
+pwd (show present directory )
+mkdir -p a/b/c : make nested dir
+mkdir : make a dir 
+rm -r dir 
+cp : copy dir
+mv : move dir
+touch : create new files 
